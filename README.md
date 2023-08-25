@@ -9,7 +9,7 @@ I'm Hui Min, from Nanyang Technological University (NTU), Singapore 🇸🇬
 
 ## 😁 About Me 
 
-- A **chemical engineering undergraduate** who shows **keen interest in DSAI** 💻
+- A **chemical engineering undergraduate** who shows **keen interest in technology** 💻
 - In the progress of self-learning **data science & analytics** 📊📈
 - Passionate about **continuous learning** 💫 and **self-development** 🌱
 
