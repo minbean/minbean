@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&pause=1000&color=235AF7&width=435&lines=Hello+there!+%F0%9F%98%8A%F0%9F%91%8B)](https://git.io/typing-svg)
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/RkX2zcpO79EAf82ESl/giphy.gif" width="150"/>
+  <img src="https://media.giphy.com/media/RkX2zcpO79EAf82ESl/giphy.gif" width="200"/>
 </div>
 <br>
 Hui Min here, from Nanyang Technological University 🏫, Singapore 🇸🇬
