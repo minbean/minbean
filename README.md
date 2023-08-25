@@ -11,7 +11,7 @@ Hui Min here, from Nanyang Technological University 🏫, Singapore 🇸🇬
 
 - A chemical engineering undergraduate who is passionate about **continuous learning** and **self-development** 🌱
 - An **aspiring data professional** 👩‍💻 
-- Currently self-learning **data science & analytics** 📊
+- Currently self-learning **data science & analytics** 📊📈
 
 #### Connect with me 👥
 📩 Email: huiimin.0210@gmail.com <br>
@@ -42,8 +42,7 @@ Hui Min here, from Nanyang Technological University 🏫, Singapore 🇸🇬
 </div>
  
 
-## GitHub Stats 🔥
-![minbean's Stats](https://github-readme-stats.vercel.app/api?username=minbean&theme=dark&show_icons=true&hide_border=true&count_private=true)
-![minbean's Streak](https://github-readme-streak-stats.herokuapp.com/?user=minbean&theme=dark&hide_border=true)
-
+## GitHub Stats 📊
+| ![minbean's Stats](https://github-readme-stats.vercel.app/api?username=minbean&theme=dark&show_icons=true&hide_border=true&count_private=true) | ![minbean's Streak](https://github-readme-streak-stats.herokuapp.com/?user=minbean&theme=dark&hide_border=true)|
+| ----------------------------------------------------------------------- | ----------------------------------------------------------------------- |
 
