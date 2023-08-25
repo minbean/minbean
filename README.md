@@ -7,17 +7,17 @@
 <br>
 I'm Hui Min, from Nanyang Technological University (NTU), Singapore 🇸🇬
 
-## About Me 😁
+## 😁 About Me 
 
-- A chemical engineering undergraduate who is passionate about **continuous learning** and **self-development** 🌱
-- An **aspiring data professional** 👩‍💻 
-- Currently self-learning **data science & analytics** 📊📈
+- A **chemical engineering undergraduate** who shows **keen interest in DSAI** 💻
+- In the progress of self-learning **data science & analytics** 📊📈
+- Passionate about **continuous learning** 💫 and **self-development** 🌱
 
-## GitHub Stats 📊
+## 📊 GitHub Stats 
 | ![minbean's Stats](https://github-readme-stats.vercel.app/api?username=minbean&theme=dark&show_icons=true&hide_border=true&count_private=true) | ![minbean's Streak](https://github-readme-streak-stats.herokuapp.com/?user=minbean&theme=dark&hide_border=true)|
 | ----------------------------------------------------------------------- | ----------------------------------------------------------------------- |
 
-## Connect With Me 👥
+## 👥 Connect With Me 
 📩 Email: huiimin.0210@gmail.com <br>
 <br>
 💼 LinkedIn: 
@@ -27,7 +27,7 @@ I'm Hui Min, from Nanyang Technological University (NTU), Singapore 🇸🇬
 </div>
 <img src="https://komarev.com/ghpvc/?username=minbean&style=flat-square&color=blue" alt=""/>
 
-## Tech & Tools 🔧
+## 🔧 Tech & Tools 
 ##### Programming Language
 <div>
   <img src="https://img.shields.io/badge/Python-4584b6?style=for-the-badge&logo=python&logoColor=ffde57" title="Python" alt="Python" />&nbsp;
