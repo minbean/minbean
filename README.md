@@ -41,8 +41,11 @@ I'm Hui Min, from Nanyang Technological University (NTU), Singapore 🇸🇬
 
 ##### Tools
 <div>
-  <img src="https://img.shields.io/badge/Microsoft_Excel-1d6f42?style=for-the-badge&logo=microsoft-excel&logoColor=white" title="Excel" alt="Excel"/>&nbsp;
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" title="Tableau" alt="Tableau" />&nbsp;
+  <img src="https://img.shields.io/badge/Microsoft_PowerPoint-d04423?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" title="Powerpoint" alt="Powerpoint"/>&nbsp;
+  <img src="https://img.shields.io/badge/Microsoft_Excel-1d6f42?style=for-the-badge&logo=microsoft-excel&logoColor=white" title="Excel" alt="Excel"/>&nbsp;
+  <img src="https://img.shields.io/badge/Google_BigQuery-4285F4?style=for-the-badge&logo=google-bigquery&logoColor=white" title="BigQuery" alt="BigQuery"/>&nbsp;
+  <img src="https://img.shields.io/badge/SEEQ-000080?style=for-the-badge&logo=SEEQ&logoColor=white" title="SEEQ" alt="SEEQ"/>&nbsp;
   <img src="https://img.shields.io/badge/MATLAB-49c3c3?style=for-the-badge&logo=Matlab&logoColor=white" title="MATLAB" alt="MATLAB"/>&nbsp;
 </div>
 
