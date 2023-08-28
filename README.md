@@ -18,9 +18,9 @@ I'm Hui Min, from Nanyang Technological University (NTU), Singapore 🇸🇬
 | ----------------------------------------------------------------------- | ----------------------------------------------------------------------- |
 
 ## 👥 Connect With Me 
-📩 Email: huiimin.0210@gmail.com <br>
+📩 **Email:** huiimin.0210@gmail.com <br>
 <br>
-💼 LinkedIn: 
+💼 **LinkedIn:** 
 <div id="badges">
   <a href="https://www.linkedin.com/in/hhuimin/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -44,8 +44,13 @@ I'm Hui Min, from Nanyang Technological University (NTU), Singapore 🇸🇬
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" title="Tableau" alt="Tableau" />&nbsp;
   <img src="https://img.shields.io/badge/Microsoft_PowerPoint-d04423?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" title="Powerpoint" alt="Powerpoint"/>&nbsp;
   <img src="https://img.shields.io/badge/Microsoft_Excel-1d6f42?style=for-the-badge&logo=microsoft-excel&logoColor=white" title="Excel" alt="Excel"/>&nbsp;
+  <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" title="Word" alt="Word"/>&nbsp;
+  <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" title="Jupyter" alt="Jupyter"/>&nbsp;
+  <img src="https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036"/>&nbsp
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" title="GitHub alt="GitHub"/>&nbsp;
+  <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/MATLAB-49c3c3?style=for-the-badge&logo=Matlab&logoColor=white" title="MATLAB" alt="MATLAB"/>&nbsp;
   <img src="https://img.shields.io/badge/Google_BigQuery-4285F4?style=for-the-badge&logo=google-bigquery&logoColor=white" title="BigQuery" alt="BigQuery"/>&nbsp;
   <img src="https://img.shields.io/badge/SEEQ-000080?style=for-the-badge&logo=SEEQ&logoColor=white" title="SEEQ" alt="SEEQ"/>&nbsp;
-  <img src="https://img.shields.io/badge/MATLAB-49c3c3?style=for-the-badge&logo=Matlab&logoColor=white" title="MATLAB" alt="MATLAB"/>&nbsp;
 </div>
 
