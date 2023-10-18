@@ -26,12 +26,17 @@ I'm Hui Min, from Nanyang Technological University (NTU), Singapore 🇸🇬
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </div>
 <img src="https://komarev.com/ghpvc/?username=minbean&style=flat-square&color=blue" alt=""/>
+    
+👾 **Replit:** <br>
+Visit my [Replit](https://replit.com/@minbean?path=&tab=repls) to enjoy some games!
 
 ## 🔧 Tech & Tools 
 ##### Programming Language
 <div>
   <img src="https://img.shields.io/badge/Python-4584b6?style=for-the-badge&logo=python&logoColor=ffde57" title="Python" alt="Python" />&nbsp;
   <img src="https://img.shields.io/badge/R-165CAA?style=for-the-badge&logo=R&logoColor=white" title="R" alt="R" />&nbsp;
+  <img src ="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" title="HTML" alt="HTML" />&nbsp;
+  <img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" title="CSS" alt"CSS" />&nbsp;
 </div>
 
 ##### Database
